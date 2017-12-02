@@ -1,0 +1,47 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  font-size: 18px;
+  .img-circle {
+    border-radius: 50%;
+}
+
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.jumbotron h1 {
+	font-family: 'Special Elite', courier, cursive;
+	margin-top: 0px;
+}
+
+.jumbotron h2 {
+	font-family: 'Slabo 27px', courier, serif;
+}
+
+.jumbotron p {
+	margin-bottom: 20px;
+}
+.jumbotron {
+	background-image: url('../images/MoS1.jpg');
+	background-size: 100%;
+}
+
+footer {
+	background-color: #000000;
+	padding-top: 18px;
+}
+
+.col-md-6 {
+	text-align: center;
+}
+
+p {
+	text-align: left;
+}
+
+li {
+	text-align: left;
+}
