@@ -26,6 +26,7 @@ body {
 }
 .jumbotron {
 	background-image: url('../images/MoS1.jpg');
+	background-repeat: no-repeat;
 	background-size: 100%;
 }
 
